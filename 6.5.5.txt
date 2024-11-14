@@ -368,7 +368,3 @@ wp-includes/interactivity-api/class-wp-interactivity-api.php
 wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php
 wp-includes/interactivity-api/interactivity-api.php
 wp-includes/class-wp-plugin-dependencies.php
-/internal/shared/mu-plugins/0-playground.php
-/internal/shared/mu-plugins/1-auto-login.php
-/internal/shared/mu-plugins/1-playground-web.php
-/internal/shared/mu-plugins/playground-includes/wp_http_dummy.php
