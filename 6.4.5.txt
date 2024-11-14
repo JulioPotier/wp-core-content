@@ -346,11 +346,5 @@ wp-includes/style-engine/class-wp-style-engine-processor.php
 wp-includes/fonts/class-wp-font-face-resolver.php
 wp-includes/fonts/class-wp-font-face.php
 wp-includes/fonts.php
-/internal/shared/mu-plugins/0-playground.php
-/internal/shared/mu-plugins/1-auto-login.php
-/internal/shared/mu-plugins/1-playground-web.php
-/internal/shared/mu-plugins/playground-includes/wp_http_dummy.php
 wp-includes/Requests/src/Transport.php
-/internal/shared/mu-plugins/sqlite-test.php
 wp-includes/vars.php
-wp-content/plugins/get-included-files.php_/____get-included-files.php
