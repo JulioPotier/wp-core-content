@@ -50,16 +50,6 @@ wp-includes/l10n/class-wp-translation-file.php
 wp-includes/l10n/class-wp-translation-file-mo.php
 wp-includes/l10n/class-wp-translation-file-php.php
 wp-includes/class-wpdb.php
-/internal/shared/mu-plugins/sqlite-database-integration.php
-/internal/shared/sqlite-database-integration/wp-includes/sqlite/db.php
-/internal/shared/sqlite-database-integration/constants.php
-/internal/shared/sqlite-database-integration/wp-includes/sqlite/class-wp-sqlite-lexer.php
-/internal/shared/sqlite-database-integration/wp-includes/sqlite/class-wp-sqlite-query-rewriter.php
-/internal/shared/sqlite-database-integration/wp-includes/sqlite/class-wp-sqlite-translator.php
-/internal/shared/sqlite-database-integration/wp-includes/sqlite/class-wp-sqlite-token.php
-/internal/shared/sqlite-database-integration/wp-includes/sqlite/class-wp-sqlite-pdo-user-defined-functions.php
-/internal/shared/sqlite-database-integration/wp-includes/sqlite/class-wp-sqlite-db.php
-/internal/shared/sqlite-database-integration/wp-includes/sqlite/install-functions.php
 wp-includes/cache.php
 wp-includes/class-wp-object-cache.php
 wp-includes/cache-compat.php
