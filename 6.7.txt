@@ -31,7 +31,6 @@ wp-includes/error-protection.php
 wp-includes/default-constants.php
 wp-includes/plugin.php
 wp-includes/class-wp-hook.php
-wp-content/fatal-error-handler.php
 wp-includes/class-wp-list-util.php
 wp-includes/class-wp-token-map.php
 wp-includes/formatting.php
@@ -54,7 +53,6 @@ wp-includes/l10n/class-wp-translation-file.php
 wp-includes/l10n/class-wp-translation-file-mo.php
 wp-includes/l10n/class-wp-translation-file-php.php
 wp-includes/class-wpdb.php
-wp-content/db.php
 wp-includes/cache.php
 wp-includes/class-wp-object-cache.php
 wp-includes/cache-compat.php
