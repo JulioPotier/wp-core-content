@@ -1,0 +1,2175 @@
+array (
+  '/wp-admin/includes/class-wp-post-comments-list-table.php' => 
+  array (
+    0 => 'WP_Post_Comments_List_Table',
+  ),
+  '/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php' => 
+  array (
+    0 => 'WP_Privacy_Data_Export_Requests_List_Table',
+  ),
+  '/wp-admin/includes/class-wp-privacy-requests-table.php' => 
+  array (
+    0 => 'WP_Privacy_Requests_Table',
+  ),
+  '/wp-admin/includes/class-wp-terms-list-table.php' => 
+  array (
+    0 => 'WP_Terms_List_Table',
+  ),
+  '/wp-admin/includes/class-wp-users-list-table.php' => 
+  array (
+    0 => 'WP_Users_List_Table',
+  ),
+  '/wp-admin/includes/class-plugin-upgrader.php' => 
+  array (
+    0 => 'Plugin_Upgrader',
+  ),
+  '/wp-admin/includes/class-wp-privacy-policy-content.php' => 
+  array (
+    0 => 'WP_Privacy_Policy_Content',
+  ),
+  '/wp-admin/includes/class-bulk-plugin-upgrader-skin.php' => 
+  array (
+    0 => 'Bulk_Plugin_Upgrader_Skin',
+  ),
+  '/wp-admin/includes/class-wp-theme-install-list-table.php' => 
+  array (
+    0 => 'WP_Theme_Install_List_Table',
+  ),
+  '/wp-admin/includes/class-wp-filesystem-ssh2.php' => 
+  array (
+    0 => 'WP_Filesystem_SSH2',
+  ),
+  '/wp-admin/includes/class-wp-community-events.php' => 
+  array (
+    0 => 'WP_Community_Events',
+  ),
+  '/wp-admin/includes/class-file-upload-upgrader.php' => 
+  array (
+    0 => 'File_Upload_Upgrader',
+  ),
+  '/wp-admin/includes/class-language-pack-upgrader-skin.php' => 
+  array (
+    0 => 'Language_Pack_Upgrader_Skin',
+  ),
+  '/wp-admin/includes/class-language-pack-upgrader.php' => 
+  array (
+    0 => 'Language_Pack_Upgrader',
+  ),
+  '/wp-admin/includes/class-plugin-installer-skin.php' => 
+  array (
+    0 => 'Plugin_Installer_Skin',
+  ),
+  '/wp-admin/includes/class-pclzip.php' => 
+  array (
+    0 => 'PclZip',
+  ),
+  '/wp-admin/includes/class-wp-ajax-upgrader-skin.php' => 
+  array (
+    0 => 'WP_Ajax_Upgrader_Skin',
+  ),
+  '/wp-admin/includes/class-wp-themes-list-table.php' => 
+  array (
+    0 => 'WP_Themes_List_Table',
+  ),
+  '/wp-admin/includes/class-walker-nav-menu-checklist.php' => 
+  array (
+    0 => 'Walker_Nav_Menu_Checklist',
+  ),
+  '/wp-admin/includes/class-wp-ms-sites-list-table.php' => 
+  array (
+    0 => 'WP_MS_Sites_List_Table',
+  ),
+  '/wp-admin/includes/class-wp-application-passwords-list-table.php' => 
+  array (
+    0 => 'WP_Application_Passwords_List_Table',
+  ),
+  '/wp-admin/includes/class-walker-nav-menu-edit.php' => 
+  array (
+    0 => 'Walker_Nav_Menu_Edit',
+  ),
+  '/wp-admin/includes/class-wp-automatic-updater.php' => 
+  array (
+    0 => 'WP_Automatic_Updater',
+  ),
+  '/wp-admin/includes/class-plugin-upgrader-skin.php' => 
+  array (
+    0 => 'Plugin_Upgrader_Skin',
+  ),
+  '/wp-admin/includes/class-wp-site-health.php' => 
+  array (
+    0 => 'WP_Site_Health',
+  ),
+  '/wp-admin/includes/class-wp-internal-pointers.php' => 
+  array (
+    0 => 'WP_Internal_Pointers',
+  ),
+  '/wp-admin/includes/class-bulk-theme-upgrader-skin.php' => 
+  array (
+    0 => 'Bulk_Theme_Upgrader_Skin',
+  ),
+  '/wp-admin/includes/class-theme-installer-skin.php' => 
+  array (
+    0 => 'Theme_Installer_Skin',
+  ),
+  '/wp-admin/includes/class-walker-category-checklist.php' => 
+  array (
+    0 => 'Walker_Category_Checklist',
+  ),
+  '/wp-admin/includes/class-wp-upgrader.php' => 
+  array (
+    0 => 'WP_Upgrader',
+  ),
+  '/wp-admin/includes/class-ftp-sockets.php' => 
+  array (
+    0 => 'ftp_sockets',
+  ),
+  '/wp-admin/includes/class-wp-filesystem-base.php' => 
+  array (
+    0 => 'WP_Filesystem_Base',
+  ),
+  '/wp-admin/includes/class-wp-plugin-install-list-table.php' => 
+  array (
+    0 => 'WP_Plugin_Install_List_Table',
+  ),
+  '/wp-admin/includes/class-core-upgrader.php' => 
+  array (
+    0 => 'Core_Upgrader',
+  ),
+  '/wp-admin/includes/class-wp-filesystem-direct.php' => 
+  array (
+    0 => 'WP_Filesystem_Direct',
+  ),
+  '/wp-admin/includes/class-wp-filesystem-ftpsockets.php' => 
+  array (
+    0 => 'WP_Filesystem_ftpsockets',
+  ),
+  '/wp-admin/includes/class-theme-upgrader.php' => 
+  array (
+    0 => 'Theme_Upgrader',
+  ),
+  '/wp-admin/includes/class-wp-links-list-table.php' => 
+  array (
+    0 => 'WP_Links_List_Table',
+  ),
+  '/wp-admin/includes/class-wp-upgrader-skin.php' => 
+  array (
+    0 => 'WP_Upgrader_Skin',
+  ),
+  '/wp-admin/includes/class-wp-ms-users-list-table.php' => 
+  array (
+    0 => 'WP_MS_Users_List_Table',
+  ),
+  '/wp-admin/includes/class-custom-image-header.php' => 
+  array (
+    0 => 'Custom_Image_Header',
+  ),
+  '/wp-admin/includes/class-wp-importer.php' => 
+  array (
+    0 => 'WP_Importer',
+  ),
+  '/wp-admin/includes/class-wp-posts-list-table.php' => 
+  array (
+    0 => 'WP_Posts_List_Table',
+  ),
+  '/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php' => 
+  array (
+    0 => 'WP_Privacy_Data_Removal_Requests_List_Table',
+  ),
+  '/wp-admin/includes/class-wp-list-table-compat.php' => 
+  array (
+    0 => '_WP_List_Table_Compat',
+  ),
+  '/wp-admin/includes/class-ftp-pure.php' => 
+  array (
+    0 => 'ftp_pure',
+  ),
+  '/wp-admin/includes/class-bulk-upgrader-skin.php' => 
+  array (
+    0 => 'Bulk_Upgrader_Skin',
+  ),
+  '/wp-admin/includes/class-wp-comments-list-table.php' => 
+  array (
+    0 => 'WP_Comments_List_Table',
+  ),
+  '/wp-admin/includes/class-wp-ms-themes-list-table.php' => 
+  array (
+    0 => 'WP_MS_Themes_List_Table',
+  ),
+  '/wp-admin/includes/class-wp-site-health-auto-updates.php' => 
+  array (
+    0 => 'WP_Site_Health_Auto_Updates',
+  ),
+  '/wp-admin/includes/class-wp-list-table.php' => 
+  array (
+    0 => 'WP_List_Table',
+  ),
+  '/wp-admin/includes/class-automatic-upgrader-skin.php' => 
+  array (
+    0 => 'Automatic_Upgrader_Skin',
+  ),
+  '/wp-admin/includes/class-wp-filesystem-ftpext.php' => 
+  array (
+    0 => 'WP_Filesystem_FTPext',
+  ),
+  '/wp-admin/includes/class-wp-plugins-list-table.php' => 
+  array (
+    0 => 'WP_Plugins_List_Table',
+  ),
+  '/wp-admin/includes/class-wp-media-list-table.php' => 
+  array (
+    0 => 'WP_Media_List_Table',
+  ),
+  '/wp-admin/includes/class-wp-site-icon.php' => 
+  array (
+    0 => 'WP_Site_Icon',
+  ),
+  '/wp-admin/includes/class-theme-upgrader-skin.php' => 
+  array (
+    0 => 'Theme_Upgrader_Skin',
+  ),
+  '/wp-admin/includes/class-wp-screen.php' => 
+  array (
+    0 => 'WP_Screen',
+  ),
+  '/wp-admin/includes/class-ftp.php' => 
+  array (
+    0 => 'ftp_base',
+    1 => 'ftp',
+    2 => 'ftp',
+  ),
+  '/wp-admin/includes/class-wp-debug-data.php' => 
+  array (
+    0 => 'WP_Debug_Data',
+  ),
+  '/wp-admin/includes/deprecated.php' => 
+  array (
+    0 => 'WP_User_Search',
+    1 => 'WP_Privacy_Data_Export_Requests_Table',
+    2 => 'WP_Privacy_Data_Removal_Requests_Table',
+  ),
+  '/wp-admin/includes/class-custom-background.php' => 
+  array (
+    0 => 'Custom_Background',
+  ),
+  '/wp-includes/rss.php' => 
+  array (
+    0 => 'MagpieRSS',
+    1 => 'RSSCache',
+  ),
+  '/wp-includes/blocks/navigation.php' => 
+  array (
+    0 => 'WP_Navigation_Block_Renderer',
+  ),
+  '/wp-includes/class-wp-customize-setting.php' => 
+  array (
+    0 => 'WP_Customize_Setting',
+  ),
+  '/wp-includes/class-wp-block-editor-context.php' => 
+  array (
+    0 => 'WP_Block_Editor_Context',
+  ),
+  '/wp-includes/class-wpdb.php' => 
+  array (
+    0 => 'wpdb',
+  ),
+  '/wp-includes/class-wp-comment-query.php' => 
+  array (
+    0 => 'WP_Comment_Query',
+  ),
+  '/wp-includes/class-walker-category.php' => 
+  array (
+    0 => 'Walker_Category',
+  ),
+  '/wp-includes/class-wp-date-query.php' => 
+  array (
+    0 => 'WP_Date_Query',
+  ),
+  '/wp-includes/class-wp-recovery-mode-cookie-service.php' => 
+  array (
+    0 => 'WP_Recovery_Mode_Cookie_Service',
+  ),
+  '/wp-includes/class-wp-styles.php' => 
+  array (
+    0 => 'WP_Styles',
+  ),
+  '/wp-includes/class-wp-editor.php' => 
+  array (
+    0 => '_WP_Editors',
+  ),
+  '/wp-includes/l10n/class-wp-translation-controller.php' => 
+  array (
+    0 => 'WP_Translation_Controller',
+  ),
+  '/wp-includes/l10n/class-wp-translation-file-php.php' => 
+  array (
+    0 => 'WP_Translation_File_PHP',
+  ),
+  '/wp-includes/l10n/class-wp-translation-file.php' => 
+  array (
+    0 => 'WP_Translation_File',
+  ),
+  '/wp-includes/l10n/class-wp-translation-file-mo.php' => 
+  array (
+    0 => 'WP_Translation_File_MO',
+  ),
+  '/wp-includes/l10n/class-wp-translations.php' => 
+  array (
+    0 => 'WP_Translations',
+  ),
+  '/wp-includes/ID3/module.audio-video.riff.php' => 
+  array (
+    0 => 'getid3_riff',
+  ),
+  '/wp-includes/ID3/module.audio.flac.php' => 
+  array (
+    0 => 'getid3_flac',
+  ),
+  '/wp-includes/ID3/module.tag.apetag.php' => 
+  array (
+    0 => 'getid3_apetag',
+  ),
+  '/wp-includes/ID3/module.tag.id3v2.php' => 
+  array (
+    0 => 'getid3_id3v2',
+  ),
+  '/wp-includes/ID3/module.audio-video.quicktime.php' => 
+  array (
+    0 => 'getid3_quicktime',
+  ),
+  '/wp-includes/ID3/module.tag.id3v1.php' => 
+  array (
+    0 => 'getid3_id3v1',
+  ),
+  '/wp-includes/ID3/module.tag.lyrics3.php' => 
+  array (
+    0 => 'getid3_lyrics3',
+  ),
+  '/wp-includes/ID3/getid3.php' => 
+  array (
+    0 => 'getID3',
+    1 => 'getid3_handler',
+    2 => 'getid3_exception',
+  ),
+  '/wp-includes/ID3/module.audio.mp3.php' => 
+  array (
+    0 => 'getid3_mp3',
+  ),
+  '/wp-includes/ID3/module.audio.dts.php' => 
+  array (
+    0 => 'getid3_dts',
+  ),
+  '/wp-includes/ID3/module.audio.ogg.php' => 
+  array (
+    0 => 'getid3_ogg',
+  ),
+  '/wp-includes/ID3/module.audio-video.matroska.php' => 
+  array (
+    0 => 'getid3_matroska',
+  ),
+  '/wp-includes/ID3/module.audio.ac3.php' => 
+  array (
+    0 => 'getid3_ac3',
+  ),
+  '/wp-includes/ID3/getid3.lib.php' => 
+  array (
+    0 => 'getid3_lib',
+  ),
+  '/wp-includes/ID3/module.audio-video.asf.php' => 
+  array (
+    0 => 'getid3_asf',
+  ),
+  '/wp-includes/ID3/module.audio-video.flv.php' => 
+  array (
+    0 => 'getid3_flv',
+    1 => 'AMFStream',
+    2 => 'AMFReader',
+    3 => 'AVCSequenceParameterSetReader',
+  ),
+  '/wp-includes/PHPMailer/PHPMailer.php' => 
+  array (
+    0 => 'PHPMailer',
+  ),
+  '/wp-includes/PHPMailer/SMTP.php' => 
+  array (
+    0 => 'SMTP',
+  ),
+  '/wp-includes/PHPMailer/Exception.php' => 
+  array (
+    0 => 'Exception',
+  ),
+  '/wp-includes/class-wp-session-tokens.php' => 
+  array (
+    0 => 'WP_Session_Tokens',
+  ),
+  '/wp-includes/class-wp-theme-json-data.php' => 
+  array (
+    0 => 'WP_Theme_JSON_Data',
+  ),
+  '/wp-includes/class-wp-theme-json-schema.php' => 
+  array (
+    0 => 'WP_Theme_JSON_Schema',
+  ),
+  '/wp-includes/class-wp-oembed-controller.php' => 
+  array (
+    0 => 'WP_oEmbed_Controller',
+  ),
+  '/wp-includes/class-wp-roles.php' => 
+  array (
+    0 => 'WP_Roles',
+  ),
+  '/wp-includes/class-wp-classic-to-block-menu-converter.php' => 
+  array (
+    0 => 'WP_Classic_To_Block_Menu_Converter',
+  ),
+  '/wp-includes/class-wp-block-template.php' => 
+  array (
+    0 => 'WP_Block_Template',
+  ),
+  '/wp-includes/class-wp-http-requests-response.php' => 
+  array (
+    0 => 'WP_HTTP_Requests_Response',
+  ),
+  '/wp-includes/class-wp-scripts.php' => 
+  array (
+    0 => 'WP_Scripts',
+  ),
+  '/wp-includes/class-wp-walker.php' => 
+  array (
+    0 => 'Walker',
+  ),
+  '/wp-includes/class-wp-customize-nav-menus.php' => 
+  array (
+    0 => 'WP_Customize_Nav_Menus',
+  ),
+  '/wp-includes/class-wp.php' => 
+  array (
+    0 => 'WP',
+  ),
+  '/wp-includes/class-walker-category-dropdown.php' => 
+  array (
+    0 => 'Walker_CategoryDropdown',
+  ),
+  '/wp-includes/class-wp-script-modules.php' => 
+  array (
+    0 => 'WP_Script_Modules',
+  ),
+  '/wp-includes/class-wp-site-query.php' => 
+  array (
+    0 => 'WP_Site_Query',
+  ),
+  '/wp-includes/class-wp-customize-panel.php' => 
+  array (
+    0 => 'WP_Customize_Panel',
+  ),
+  '/wp-includes/class-wp-duotone.php' => 
+  array (
+    0 => 'WP_Duotone',
+  ),
+  '/wp-includes/SimplePie/Category.php' => 
+  array (
+    0 => 'SimplePie_Category',
+  ),
+  '/wp-includes/SimplePie/Net/IPv6.php' => 
+  array (
+    0 => 'SimplePie_Net_IPv6',
+  ),
+  '/wp-includes/SimplePie/Cache/MySQL.php' => 
+  array (
+    0 => 'SimplePie_Cache_MySQL',
+  ),
+  '/wp-includes/SimplePie/Parser.php' => 
+  array (
+    0 => 'SimplePie_Parser',
+  ),
+  '/wp-includes/SimplePie/Sanitize.php' => 
+  array (
+    0 => 'SimplePie_Sanitize',
+  ),
+  '/wp-includes/SimplePie/Cache.php' => 
+  array (
+    0 => 'SimplePie_Cache',
+  ),
+  '/wp-includes/SimplePie/File.php' => 
+  array (
+    0 => 'SimplePie_File',
+  ),
+  '/wp-includes/SimplePie/Registry.php' => 
+  array (
+    0 => 'SimplePie_Registry',
+  ),
+  '/wp-includes/SimplePie/Parse/Date.php' => 
+  array (
+    0 => 'SimplePie_Parse_Date',
+  ),
+  '/wp-includes/SimplePie/Copyright.php' => 
+  array (
+    0 => 'SimplePie_Copyright',
+  ),
+  '/wp-includes/SimplePie/Content/Type/Sniffer.php' => 
+  array (
+    0 => 'SimplePie_Content_Type_Sniffer',
+  ),
+  '/wp-includes/SimplePie/Locator.php' => 
+  array (
+    0 => 'SimplePie_Locator',
+  ),
+  '/wp-includes/SimplePie/XML/Declaration/Parser.php' => 
+  array (
+    0 => 'SimplePie_XML_Declaration_Parser',
+  ),
+  '/wp-includes/SimplePie/Decode/HTML/Entities.php' => 
+  array (
+    0 => 'SimplePie_Decode_HTML_Entities',
+  ),
+  '/wp-includes/SimplePie/HTTP/Parser.php' => 
+  array (
+    0 => 'SimplePie_HTTP_Parser',
+  ),
+  '/wp-includes/SimplePie/Restriction.php' => 
+  array (
+    0 => 'SimplePie_Restriction',
+  ),
+  '/wp-includes/SimplePie/Credit.php' => 
+  array (
+    0 => 'SimplePie_Credit',
+  ),
+  '/wp-includes/SimplePie/Item.php' => 
+  array (
+    0 => 'SimplePie_Item',
+  ),
+  '/wp-includes/SimplePie/Enclosure.php' => 
+  array (
+    0 => 'SimplePie_Enclosure',
+  ),
+  '/wp-includes/SimplePie/IRI.php' => 
+  array (
+    0 => 'SimplePie_IRI',
+  ),
+  '/wp-includes/SimplePie/Source.php' => 
+  array (
+    0 => 'SimplePie_Source',
+  ),
+  '/wp-includes/SimplePie/Author.php' => 
+  array (
+    0 => 'SimplePie_Author',
+  ),
+  '/wp-includes/SimplePie/Exception.php' => 
+  array (
+    0 => 'SimplePie_Exception',
+  ),
+  '/wp-includes/SimplePie/Caption.php' => 
+  array (
+    0 => 'SimplePie_Caption',
+  ),
+  '/wp-includes/SimplePie/Misc.php' => 
+  array (
+    0 => 'SimplePie_Misc',
+  ),
+  '/wp-includes/SimplePie/Rating.php' => 
+  array (
+    0 => 'SimplePie_Rating',
+  ),
+  '/wp-includes/SimplePie/Core.php' => 
+  array (
+    0 => 'SimplePie_Core',
+  ),
+  '/wp-includes/SimplePie/gzdecode.php' => 
+  array (
+    0 => 'SimplePie_gzdecode',
+  ),
+  '/wp-includes/class-wp-textdomain-registry.php' => 
+  array (
+    0 => 'WP_Textdomain_Registry',
+  ),
+  '/wp-includes/class-json.php' => 
+  array (
+    0 => 'Services_JSON',
+    1 => 'Services_JSON_Error',
+    2 => 'Services_JSON_Error',
+  ),
+  '/wp-includes/class-simplepie.php' => 
+  array (
+    0 => 'SimplePie',
+  ),
+  '/wp-includes/class-wp-term-query.php' => 
+  array (
+    0 => 'WP_Term_Query',
+  ),
+  '/wp-includes/class-wp-locale-switcher.php' => 
+  array (
+    0 => 'WP_Locale_Switcher',
+  ),
+  '/wp-includes/class-walker-comment.php' => 
+  array (
+    0 => 'Walker_Comment',
+  ),
+  '/wp-includes/class-wp-plugin-dependencies.php' => 
+  array (
+    0 => 'WP_Plugin_Dependencies',
+  ),
+  '/wp-includes/class-wp-http-cookie.php' => 
+  array (
+    0 => 'WP_Http_Cookie',
+  ),
+  '/wp-includes/class-wp-rewrite.php' => 
+  array (
+    0 => 'WP_Rewrite',
+  ),
+  '/wp-includes/class-wp-http-proxy.php' => 
+  array (
+    0 => 'WP_HTTP_Proxy',
+  ),
+  '/wp-includes/class-wp-simplepie-file.php' => 
+  array (
+    0 => 'WP_SimplePie_File',
+  ),
+  '/wp-includes/class-wp-object-cache.php' => 
+  array (
+    0 => 'WP_Object_Cache',
+  ),
+  '/wp-includes/class-wp-customize-manager.php' => 
+  array (
+    0 => 'WP_Customize_Manager',
+  ),
+  '/wp-includes/class-wp-block-supports.php' => 
+  array (
+    0 => 'WP_Block_Supports',
+  ),
+  '/wp-includes/atomlib.php' => 
+  array (
+    0 => 'AtomFeed',
+    1 => 'AtomEntry',
+    2 => 'AtomParser',
+  ),
+  '/wp-includes/class-wp-text-diff-renderer-table.php' => 
+  array (
+    0 => 'WP_Text_Diff_Renderer_Table',
+  ),
+  '/wp-includes/class-wp-xmlrpc-server.php' => 
+  array (
+    0 => 'wp_xmlrpc_server',
+  ),
+  '/wp-includes/class-wp-feed-cache-transient.php' => 
+  array (
+    0 => 'WP_Feed_Cache_Transient',
+  ),
+  '/wp-includes/class-wp-text-diff-renderer-inline.php' => 
+  array (
+    0 => 'WP_Text_Diff_Renderer_inline',
+  ),
+  '/wp-includes/class-wp-http-requests-hooks.php' => 
+  array (
+    0 => 'WP_HTTP_Requests_Hooks',
+  ),
+  '/wp-includes/class-wp-fatal-error-handler.php' => 
+  array (
+    0 => 'WP_Fatal_Error_Handler',
+  ),
+  '/wp-includes/class-wp-block-type-registry.php' => 
+  array (
+    0 => 'WP_Block_Type_Registry',
+  ),
+  '/wp-includes/class-wp-site.php' => 
+  array (
+    0 => 'WP_Site',
+  ),
+  '/wp-includes/class-wp-block-parser-frame.php' => 
+  array (
+    0 => 'WP_Block_Parser_Frame',
+  ),
+  '/wp-includes/class-wp-block-styles-registry.php' => 
+  array (
+    0 => 'WP_Block_Styles_Registry',
+  ),
+  '/wp-includes/class-wp-matchesmapregex.php' => 
+  array (
+    0 => 'WP_MatchesMapRegex',
+  ),
+  '/wp-includes/Requests/src/Autoload.php' => 
+  array (
+    0 => 'Autoload',
+  ),
+  '/wp-includes/Requests/src/Port.php' => 
+  array (
+    0 => 'Port',
+  ),
+  '/wp-includes/Requests/src/Requests.php' => 
+  array (
+    0 => 'Requests',
+  ),
+  '/wp-includes/Requests/src/Ipv6.php' => 
+  array (
+    0 => 'Ipv6',
+  ),
+  '/wp-includes/Requests/src/Response/Headers.php' => 
+  array (
+    0 => 'Headers',
+  ),
+  '/wp-includes/Requests/src/Response.php' => 
+  array (
+    0 => 'Response',
+  ),
+  '/wp-includes/Requests/src/Session.php' => 
+  array (
+    0 => 'Session',
+  ),
+  '/wp-includes/Requests/src/Cookie.php' => 
+  array (
+    0 => 'Cookie',
+  ),
+  '/wp-includes/Requests/src/Ssl.php' => 
+  array (
+    0 => 'Ssl',
+  ),
+  '/wp-includes/Requests/src/IdnaEncoder.php' => 
+  array (
+    0 => 'IdnaEncoder',
+  ),
+  '/wp-includes/Requests/src/Iri.php' => 
+  array (
+    0 => 'Iri',
+  ),
+  '/wp-includes/Requests/src/Exception.php' => 
+  array (
+    0 => 'Exception',
+  ),
+  '/wp-includes/Requests/src/Exception/Transport/Curl.php' => 
+  array (
+    0 => 'Curl',
+  ),
+  '/wp-includes/Requests/src/Exception/InvalidArgument.php' => 
+  array (
+    0 => 'InvalidArgument',
+  ),
+  '/wp-includes/Requests/src/Exception/Http.php' => 
+  array (
+    0 => 'Http',
+  ),
+  '/wp-includes/Requests/src/Exception/ArgumentCount.php' => 
+  array (
+    0 => 'ArgumentCount',
+  ),
+  '/wp-includes/Requests/src/Exception/Transport.php' => 
+  array (
+    0 => 'Transport',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status304.php' => 
+  array (
+    0 => 'Status304',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status502.php' => 
+  array (
+    0 => 'Status502',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status503.php' => 
+  array (
+    0 => 'Status503',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status305.php' => 
+  array (
+    0 => 'Status305',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status501.php' => 
+  array (
+    0 => 'Status501',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status500.php' => 
+  array (
+    0 => 'Status500',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status306.php' => 
+  array (
+    0 => 'Status306',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status504.php' => 
+  array (
+    0 => 'Status504',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status511.php' => 
+  array (
+    0 => 'Status511',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status505.php' => 
+  array (
+    0 => 'Status505',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status401.php' => 
+  array (
+    0 => 'Status401',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status415.php' => 
+  array (
+    0 => 'Status415',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status429.php' => 
+  array (
+    0 => 'Status429',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status428.php' => 
+  array (
+    0 => 'Status428',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status414.php' => 
+  array (
+    0 => 'Status414',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status400.php' => 
+  array (
+    0 => 'Status400',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status416.php' => 
+  array (
+    0 => 'Status416',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status402.php' => 
+  array (
+    0 => 'Status402',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status403.php' => 
+  array (
+    0 => 'Status403',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status417.php' => 
+  array (
+    0 => 'Status417',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status413.php' => 
+  array (
+    0 => 'Status413',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status407.php' => 
+  array (
+    0 => 'Status407',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status406.php' => 
+  array (
+    0 => 'Status406',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status412.php' => 
+  array (
+    0 => 'Status412',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status404.php' => 
+  array (
+    0 => 'Status404',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status410.php' => 
+  array (
+    0 => 'Status410',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/StatusUnknown.php' => 
+  array (
+    0 => 'StatusUnknown',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status411.php' => 
+  array (
+    0 => 'Status411',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status405.php' => 
+  array (
+    0 => 'Status405',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status408.php' => 
+  array (
+    0 => 'Status408',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status409.php' => 
+  array (
+    0 => 'Status409',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status431.php' => 
+  array (
+    0 => 'Status431',
+  ),
+  '/wp-includes/Requests/src/Exception/Http/Status418.php' => 
+  array (
+    0 => 'Status418',
+  ),
+  '/wp-includes/Requests/src/Utility/InputValidator.php' => 
+  array (
+    0 => 'InputValidator',
+  ),
+  '/wp-includes/Requests/src/Utility/FilteredIterator.php' => 
+  array (
+    0 => 'FilteredIterator',
+  ),
+  '/wp-includes/html-api/class-wp-html-token.php' => 
+  array (
+    0 => 'WP_HTML_Token',
+  ),
+  '/wp-includes/html-api/class-wp-html-open-elements.php' => 
+  array (
+    0 => 'WP_HTML_Open_Elements',
+  ),
+  '/wp-includes/html-api/class-wp-html-processor-state.php' => 
+  array (
+    0 => 'WP_HTML_Processor_State',
+  ),
+  '/wp-includes/html-api/class-wp-html-processor.php' => 
+  array (
+    0 => 'WP_HTML_Processor',
+  ),
+  '/wp-includes/html-api/class-wp-html-span.php' => 
+  array (
+    0 => 'WP_HTML_Span',
+  ),
+  '/wp-includes/html-api/class-wp-html-unsupported-exception.php' => 
+  array (
+    0 => 'WP_HTML_Unsupported_Exception',
+  ),
+  '/wp-includes/html-api/class-wp-html-attribute-token.php' => 
+  array (
+    0 => 'WP_HTML_Attribute_Token',
+  ),
+  '/wp-includes/html-api/class-wp-html-active-formatting-elements.php' => 
+  array (
+    0 => 'WP_HTML_Active_Formatting_Elements',
+  ),
+  '/wp-includes/html-api/class-wp-html-tag-processor.php' => 
+  array (
+    0 => 'WP_HTML_Tag_Processor',
+  ),
+  '/wp-includes/html-api/class-wp-html-text-replacement.php' => 
+  array (
+    0 => 'WP_HTML_Text_Replacement',
+  ),
+  '/wp-includes/class-wp-meta-query.php' => 
+  array (
+    0 => 'WP_Meta_Query',
+  ),
+  '/wp-includes/class-wp-block.php' => 
+  array (
+    0 => 'WP_Block',
+  ),
+  '/wp-includes/pomo/po.php' => 
+  array (
+    0 => 'PO',
+  ),
+  '/wp-includes/pomo/streams.php' => 
+  array (
+    0 => 'POMO_Reader',
+    1 => 'POMO_FileReader',
+    2 => 'POMO_StringReader',
+    3 => 'POMO_CachedFileReader',
+    4 => 'POMO_CachedIntFileReader',
+  ),
+  '/wp-includes/pomo/entry.php' => 
+  array (
+    0 => 'Translation_Entry',
+  ),
+  '/wp-includes/pomo/plural-forms.php' => 
+  array (
+    0 => 'Plural_Forms',
+  ),
+  '/wp-includes/pomo/translations.php' => 
+  array (
+    0 => 'Translations',
+    1 => 'Gettext_Translations',
+    2 => 'NOOP_Translations',
+  ),
+  '/wp-includes/pomo/mo.php' => 
+  array (
+    0 => 'MO',
+  ),
+  '/wp-includes/class-wp-application-passwords.php' => 
+  array (
+    0 => 'WP_Application_Passwords',
+  ),
+  '/wp-includes/class-wp-locale.php' => 
+  array (
+    0 => 'WP_Locale',
+  ),
+  '/wp-includes/class-wp-admin-bar.php' => 
+  array (
+    0 => 'WP_Admin_Bar',
+  ),
+  '/wp-includes/class-wp-recovery-mode-key-service.php' => 
+  array (
+    0 => 'WP_Recovery_Mode_Key_Service',
+  ),
+  '/wp-includes/class-wp-block-parser.php' => 
+  array (
+    0 => 'WP_Block_Parser',
+  ),
+  '/wp-includes/class-wp-embed.php' => 
+  array (
+    0 => 'WP_Embed',
+  ),
+  '/wp-includes/class-wp-theme-json-resolver.php' => 
+  array (
+    0 => 'WP_Theme_JSON_Resolver',
+  ),
+  '/wp-includes/class-wp-error.php' => 
+  array (
+    0 => 'WP_Error',
+  ),
+  '/wp-includes/class-wp-customize-section.php' => 
+  array (
+    0 => 'WP_Customize_Section',
+  ),
+  '/wp-includes/sitemaps/class-wp-sitemaps.php' => 
+  array (
+    0 => 'WP_Sitemaps',
+  ),
+  '/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php' => 
+  array (
+    0 => 'WP_Sitemaps_Posts',
+  ),
+  '/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php' => 
+  array (
+    0 => 'WP_Sitemaps_Users',
+  ),
+  '/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php' => 
+  array (
+    0 => 'WP_Sitemaps_Taxonomies',
+  ),
+  '/wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php' => 
+  array (
+    0 => 'WP_Sitemaps_Stylesheet',
+  ),
+  '/wp-includes/sitemaps/class-wp-sitemaps-provider.php' => 
+  array (
+    0 => 'WP_Sitemaps_Provider',
+  ),
+  '/wp-includes/sitemaps/class-wp-sitemaps-renderer.php' => 
+  array (
+    0 => 'WP_Sitemaps_Renderer',
+  ),
+  '/wp-includes/sitemaps/class-wp-sitemaps-index.php' => 
+  array (
+    0 => 'WP_Sitemaps_Index',
+  ),
+  '/wp-includes/sitemaps/class-wp-sitemaps-registry.php' => 
+  array (
+    0 => 'WP_Sitemaps_Registry',
+  ),
+  '/wp-includes/class-avif-info.php' => 
+  array (
+    0 => 'Tile',
+    1 => 'Prop',
+    2 => 'Dim_Prop',
+    3 => 'Chan_Prop',
+    4 => 'Features',
+    5 => 'Box',
+    6 => 'Parser',
+  ),
+  '/wp-includes/class-phpass.php' => 
+  array (
+    0 => 'PasswordHash',
+  ),
+  '/wp-includes/class-wp-customize-control.php' => 
+  array (
+    0 => 'WP_Customize_Control',
+  ),
+  '/wp-includes/class-wp-list-util.php' => 
+  array (
+    0 => 'WP_List_Util',
+  ),
+  '/wp-includes/class-wp-user-request.php' => 
+  array (
+    0 => 'WP_User_Request',
+  ),
+  '/wp-includes/class-wp-ajax-response.php' => 
+  array (
+    0 => 'WP_Ajax_Response',
+  ),
+  '/wp-includes/class-walker-page.php' => 
+  array (
+    0 => 'Walker_Page',
+  ),
+  '/wp-includes/class-wp-theme-json.php' => 
+  array (
+    0 => 'WP_Theme_JSON',
+  ),
+  '/wp-includes/class-wp-dependencies.php' => 
+  array (
+    0 => 'WP_Dependencies',
+  ),
+  '/wp-includes/class-wp-block-bindings-registry.php' => 
+  array (
+    0 => 'WP_Block_Bindings_Registry',
+  ),
+  '/wp-includes/class-wp-recovery-mode.php' => 
+  array (
+    0 => 'WP_Recovery_Mode',
+  ),
+  '/wp-includes/class-snoopy.php' => 
+  array (
+    0 => 'Snoopy',
+  ),
+  '/wp-includes/class-walker-nav-menu.php' => 
+  array (
+    0 => 'Walker_Nav_Menu',
+  ),
+  '/wp-includes/class-wp-recovery-mode-email-service.php' => 
+  array (
+    0 => 'WP_Recovery_Mode_Email_Service',
+  ),
+  '/wp-includes/class-wp-comment.php' => 
+  array (
+    0 => 'WP_Comment',
+  ),
+  '/wp-includes/class-wp-network-query.php' => 
+  array (
+    0 => 'WP_Network_Query',
+  ),
+  '/wp-includes/class-wp-oembed.php' => 
+  array (
+    0 => 'WP_oEmbed',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Crypto.php' => 
+  array (
+    0 => 'Crypto',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php' => 
+  array (
+    0 => 'HChaCha20',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/Poly1305.php' => 
+  array (
+    0 => 'Poly1305',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/ChaCha20/Ctx.php' => 
+  array (
+    0 => 'Ctx',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/ChaCha20/IetfCtx.php' => 
+  array (
+    0 => 'IetfCtx',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php' => 
+  array (
+    0 => 'HSalsa20',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php' => 
+  array (
+    0 => 'XChaCha20',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/X25519.php' => 
+  array (
+    0 => 'X25519',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php' => 
+  array (
+    0 => 'ChaCha20',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/Curve25519.php' => 
+  array (
+    0 => 'Curve25519',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/Salsa20.php' => 
+  array (
+    0 => 'Salsa20',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php' => 
+  array (
+    0 => 'BLAKE2b',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/Poly1305/State.php' => 
+  array (
+    0 => 'State',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/SipHash.php' => 
+  array (
+    0 => 'SipHash',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php' => 
+  array (
+    0 => 'Xsalsa20',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/Ed25519.php' => 
+  array (
+    0 => 'Ed25519',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/Util.php' => 
+  array (
+    0 => 'Util',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/Curve25519/H.php' => 
+  array (
+    0 => 'H',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/Curve25519/Fe.php' => 
+  array (
+    0 => 'Fe',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Precomp.php' => 
+  array (
+    0 => 'Precomp',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P3.php' => 
+  array (
+    0 => 'P3',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P2.php' => 
+  array (
+    0 => 'P2',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/Cached.php' => 
+  array (
+    0 => 'Cached',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Core/Curve25519/Ge/P1p1.php' => 
+  array (
+    0 => 'P1p1',
+  ),
+  '/wp-includes/sodium_compat/namespaced/File.php' => 
+  array (
+    0 => 'File',
+  ),
+  '/wp-includes/sodium_compat/namespaced/Compat.php' => 
+  array (
+    0 => 'Compat',
+  ),
+  '/wp-includes/sodium_compat/src/Crypto.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Crypto',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/HChaCha20.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_HChaCha20',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/Int32.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_Int32',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/SecretStream/State.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_SecretStream_State',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/Poly1305.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_Poly1305',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/ChaCha20/IetfCtx.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_ChaCha20_IetfCtx',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/HSalsa20.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_HSalsa20',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/XChaCha20.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_XChaCha20',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/X25519.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_X25519',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/ChaCha20.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_ChaCha20',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/Curve25519.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_Curve25519',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/Salsa20.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_Salsa20',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/BLAKE2b.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_BLAKE2b',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/Poly1305/State.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_Poly1305_State',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/SipHash.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_SipHash',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/XSalsa20.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_XSalsa20',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/Ed25519.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_Ed25519',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/Util.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_Util',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/Int64.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_Int64',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/Curve25519/H.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_Curve25519_H',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Precomp.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_Curve25519_Ge_Precomp',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/P3.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_Curve25519_Ge_P3',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/P2.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_Curve25519_Ge_P2',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Cached.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_Curve25519_Ge_Cached',
+  ),
+  '/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/P1p1.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core32_Curve25519_Ge_P1p1',
+  ),
+  '/wp-includes/sodium_compat/src/Core/HChaCha20.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_HChaCha20',
+  ),
+  '/wp-includes/sodium_compat/src/Core/SecretStream/State.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_SecretStream_State',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Base64/UrlSafe.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Base64_UrlSafe',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Base64/Original.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Base64_Original',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Base64/Common.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Base64_Common',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Poly1305.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Poly1305',
+  ),
+  '/wp-includes/sodium_compat/src/Core/ChaCha20/IetfCtx.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_ChaCha20_IetfCtx',
+  ),
+  '/wp-includes/sodium_compat/src/Core/HSalsa20.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_HSalsa20',
+  ),
+  '/wp-includes/sodium_compat/src/Core/XChaCha20.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_XChaCha20',
+  ),
+  '/wp-includes/sodium_compat/src/Core/X25519.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_X25519',
+  ),
+  '/wp-includes/sodium_compat/src/Core/ChaCha20.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_ChaCha20',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Curve25519.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Curve25519',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Salsa20.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Salsa20',
+  ),
+  '/wp-includes/sodium_compat/src/Core/BLAKE2b.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_BLAKE2b',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Poly1305/State.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Poly1305_State',
+  ),
+  '/wp-includes/sodium_compat/src/Core/SipHash.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_SipHash',
+  ),
+  '/wp-includes/sodium_compat/src/Core/XSalsa20.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_XSalsa20',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Ed25519.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Ed25519',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Util.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Util',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Curve25519/H.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Curve25519_H',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Curve25519/Ge/Precomp.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Curve25519_Ge_Precomp',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Curve25519/Ge/P3.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Curve25519_Ge_P3',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Curve25519/Ge/P2.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Curve25519_Ge_P2',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Curve25519/Ge/Cached.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Curve25519_Ge_Cached',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Curve25519/Ge/P1p1.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Curve25519_Ge_P1p1',
+  ),
+  '/wp-includes/sodium_compat/src/Core/Ristretto255.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Core_Ristretto255',
+  ),
+  '/wp-includes/sodium_compat/src/File.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_File',
+  ),
+  '/wp-includes/sodium_compat/src/SodiumException.php' => 
+  array (
+    0 => 'SodiumException',
+  ),
+  '/wp-includes/sodium_compat/src/Crypto32.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Crypto32',
+  ),
+  '/wp-includes/sodium_compat/src/Compat.php' => 
+  array (
+    0 => 'ParagonIE_Sodium_Compat',
+  ),
+  '/wp-includes/class-wp-image-editor.php' => 
+  array (
+    0 => 'WP_Image_Editor',
+  ),
+  '/wp-includes/class-wp-post.php' => 
+  array (
+    0 => 'WP_Post',
+  ),
+  '/wp-includes/class-wp-widget.php' => 
+  array (
+    0 => 'WP_Widget',
+  ),
+  '/wp-includes/class-wp-simplepie-sanitize-kses.php' => 
+  array (
+    0 => 'WP_SimplePie_Sanitize_KSES',
+  ),
+  '/wp-includes/class-wp-user-meta-session-tokens.php' => 
+  array (
+    0 => 'WP_User_Meta_Session_Tokens',
+  ),
+  '/wp-includes/class-wp-navigation-fallback.php' => 
+  array (
+    0 => 'WP_Navigation_Fallback',
+  ),
+  '/wp-includes/class-wp-http-encoding.php' => 
+  array (
+    0 => 'WP_Http_Encoding',
+  ),
+  '/wp-includes/class-wp-network.php' => 
+  array (
+    0 => 'WP_Network',
+  ),
+  '/wp-includes/class-wp-metadata-lazyloader.php' => 
+  array (
+    0 => 'WP_Metadata_Lazyloader',
+  ),
+  '/wp-includes/Text/Diff.php' => 
+  array (
+    0 => 'Text_Diff',
+    1 => 'Text_MappedDiff',
+    2 => 'Text_Diff_Op',
+    3 => 'Text_Diff_Op_copy',
+    4 => 'Text_Diff_Op_delete',
+    5 => 'Text_Diff_Op_add',
+    6 => 'Text_Diff_Op_change',
+  ),
+  '/wp-includes/Text/Diff/Renderer/inline.php' => 
+  array (
+    0 => 'Text_Diff_Renderer_inline',
+  ),
+  '/wp-includes/Text/Diff/Renderer.php' => 
+  array (
+    0 => 'Text_Diff_Renderer',
+  ),
+  '/wp-includes/Text/Diff/Engine/xdiff.php' => 
+  array (
+    0 => 'Text_Diff_Engine_xdiff',
+  ),
+  '/wp-includes/Text/Diff/Engine/shell.php' => 
+  array (
+    0 => 'Text_Diff_Engine_shell',
+  ),
+  '/wp-includes/Text/Diff/Engine/native.php' => 
+  array (
+    0 => 'Text_Diff_Engine_native',
+  ),
+  '/wp-includes/Text/Diff/Engine/string.php' => 
+  array (
+    0 => 'Text_Diff_Engine_string',
+  ),
+  '/wp-includes/class-wp-block-parser-block.php' => 
+  array (
+    0 => 'WP_Block_Parser_Block',
+  ),
+  '/wp-includes/class-wp-http-curl.php' => 
+  array (
+    0 => 'WP_Http_Curl',
+  ),
+  '/wp-includes/class-wp-tax-query.php' => 
+  array (
+    0 => 'WP_Tax_Query',
+  ),
+  '/wp-includes/class-wp-query.php' => 
+  array (
+    0 => 'WP_Query',
+  ),
+  '/wp-includes/pluggable-deprecated.php' => 
+  array (
+    0 => 'wp_atom_server',
+  ),
+  '/wp-includes/class-wp-block-pattern-categories-registry.php' => 
+  array (
+    0 => 'WP_Block_Pattern_Categories_Registry',
+  ),
+  '/wp-includes/IXR/class-IXR-server.php' => 
+  array (
+    0 => 'IXR_Server',
+  ),
+  '/wp-includes/IXR/class-IXR-clientmulticall.php' => 
+  array (
+    0 => 'IXR_ClientMulticall',
+  ),
+  '/wp-includes/IXR/class-IXR-message.php' => 
+  array (
+    0 => 'IXR_Message',
+  ),
+  '/wp-includes/IXR/class-IXR-request.php' => 
+  array (
+    0 => 'IXR_Request',
+  ),
+  '/wp-includes/IXR/class-IXR-error.php' => 
+  array (
+    0 => 'IXR_Error',
+  ),
+  '/wp-includes/IXR/class-IXR-date.php' => 
+  array (
+    0 => 'IXR_Date',
+  ),
+  '/wp-includes/IXR/class-IXR-introspectionserver.php' => 
+  array (
+    0 => 'IXR_IntrospectionServer',
+  ),
+  '/wp-includes/IXR/class-IXR-value.php' => 
+  array (
+    0 => 'IXR_Value',
+  ),
+  '/wp-includes/IXR/class-IXR-client.php' => 
+  array (
+    0 => 'IXR_Client',
+  ),
+  '/wp-includes/IXR/class-IXR-base64.php' => 
+  array (
+    0 => 'IXR_Base64',
+  ),
+  '/wp-includes/class-wp-block-bindings-source.php' => 
+  array (
+    0 => 'WP_Block_Bindings_Source',
+  ),
+  '/wp-includes/class-requests.php' => 
+  array (
+    0 => 'Requests',
+  ),
+  '/wp-includes/class-wp-term.php' => 
+  array (
+    0 => 'WP_Term',
+  ),
+  '/wp-includes/fonts/class-wp-font-collection.php' => 
+  array (
+    0 => 'WP_Font_Collection',
+  ),
+  '/wp-includes/fonts/class-wp-font-utils.php' => 
+  array (
+    0 => 'WP_Font_Utils',
+  ),
+  '/wp-includes/fonts/class-wp-font-face.php' => 
+  array (
+    0 => 'WP_Font_Face',
+  ),
+  '/wp-includes/fonts/class-wp-font-library.php' => 
+  array (
+    0 => 'WP_Font_Library',
+  ),
+  '/wp-includes/fonts/class-wp-font-face-resolver.php' => 
+  array (
+    0 => 'WP_Font_Face_Resolver',
+  ),
+  '/wp-includes/class-wp-widget-factory.php' => 
+  array (
+    0 => 'WP_Widget_Factory',
+  ),
+  '/wp-includes/class-wp-http-streams.php' => 
+  array (
+    0 => 'WP_Http_Streams',
+    1 => 'WP_HTTP_Fsockopen',
+  ),
+  '/wp-includes/class-wp-customize-widgets.php' => 
+  array (
+    0 => 'WP_Customize_Widgets',
+  ),
+  '/wp-includes/class-pop3.php' => 
+  array (
+    0 => 'POP3',
+  ),
+  '/wp-includes/class-wp-http.php' => 
+  array (
+    0 => 'WP_Http',
+  ),
+  '/wp-includes/class-wp-taxonomy.php' => 
+  array (
+    0 => 'WP_Taxonomy',
+  ),
+  '/wp-includes/class-wp-post-type.php' => 
+  array (
+    0 => 'WP_Post_Type',
+  ),
+  '/wp-includes/class-wp-user.php' => 
+  array (
+    0 => 'WP_User',
+  ),
+  '/wp-includes/class-wp-http-response.php' => 
+  array (
+    0 => 'WP_HTTP_Response',
+  ),
+  '/wp-includes/class-wp-role.php' => 
+  array (
+    0 => 'WP_Role',
+  ),
+  '/wp-includes/class-wp-paused-extensions-storage.php' => 
+  array (
+    0 => 'WP_Paused_Extensions_Storage',
+  ),
+  '/wp-includes/class-wp-dependency.php' => 
+  array (
+    0 => '_WP_Dependency',
+  ),
+  '/wp-includes/class-walker-page-dropdown.php' => 
+  array (
+    0 => 'Walker_PageDropdown',
+  ),
+  '/wp-includes/class-wp-block-type.php' => 
+  array (
+    0 => 'WP_Block_Type',
+  ),
+  '/wp-includes/class-wp-feed-cache.php' => 
+  array (
+    0 => 'WP_Feed_Cache',
+  ),
+  '/wp-includes/class-wp-image-editor-imagick.php' => 
+  array (
+    0 => 'WP_Image_Editor_Imagick',
+  ),
+  '/wp-includes/class-wp-block-patterns-registry.php' => 
+  array (
+    0 => 'WP_Block_Patterns_Registry',
+  ),
+  '/wp-includes/widgets/class-wp-widget-block.php' => 
+  array (
+    0 => 'WP_Widget_Block',
+  ),
+  '/wp-includes/widgets/class-wp-widget-tag-cloud.php' => 
+  array (
+    0 => 'WP_Widget_Tag_Cloud',
+  ),
+  '/wp-includes/widgets/class-wp-widget-archives.php' => 
+  array (
+    0 => 'WP_Widget_Archives',
+  ),
+  '/wp-includes/widgets/class-wp-widget-meta.php' => 
+  array (
+    0 => 'WP_Widget_Meta',
+  ),
+  '/wp-includes/widgets/class-wp-widget-media.php' => 
+  array (
+    0 => 'WP_Widget_Media',
+  ),
+  '/wp-includes/widgets/class-wp-widget-recent-posts.php' => 
+  array (
+    0 => 'WP_Widget_Recent_Posts',
+  ),
+  '/wp-includes/widgets/class-wp-widget-links.php' => 
+  array (
+    0 => 'WP_Widget_Links',
+  ),
+  '/wp-includes/widgets/class-wp-widget-search.php' => 
+  array (
+    0 => 'WP_Widget_Search',
+  ),
+  '/wp-includes/widgets/class-wp-widget-pages.php' => 
+  array (
+    0 => 'WP_Widget_Pages',
+  ),
+  '/wp-includes/widgets/class-wp-widget-custom-html.php' => 
+  array (
+    0 => 'WP_Widget_Custom_HTML',
+  ),
+  '/wp-includes/widgets/class-wp-widget-categories.php' => 
+  array (
+    0 => 'WP_Widget_Categories',
+  ),
+  '/wp-includes/widgets/class-wp-widget-media-gallery.php' => 
+  array (
+    0 => 'WP_Widget_Media_Gallery',
+  ),
+  '/wp-includes/widgets/class-wp-widget-recent-comments.php' => 
+  array (
+    0 => 'WP_Widget_Recent_Comments',
+  ),
+  '/wp-includes/widgets/class-wp-nav-menu-widget.php' => 
+  array (
+    0 => 'WP_Nav_Menu_Widget',
+  ),
+  '/wp-includes/widgets/class-wp-widget-media-image.php' => 
+  array (
+    0 => 'WP_Widget_Media_Image',
+  ),
+  '/wp-includes/widgets/class-wp-widget-calendar.php' => 
+  array (
+    0 => 'WP_Widget_Calendar',
+  ),
+  '/wp-includes/widgets/class-wp-widget-rss.php' => 
+  array (
+    0 => 'WP_Widget_RSS',
+  ),
+  '/wp-includes/widgets/class-wp-widget-text.php' => 
+  array (
+    0 => 'WP_Widget_Text',
+  ),
+  '/wp-includes/widgets/class-wp-widget-media-video.php' => 
+  array (
+    0 => 'WP_Widget_Media_Video',
+  ),
+  '/wp-includes/widgets/class-wp-widget-media-audio.php' => 
+  array (
+    0 => 'WP_Widget_Media_Audio',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-template-revisions-controller.php' => 
+  array (
+    0 => 'WP_REST_Template_Revisions_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-font-collections-controller.php' => 
+  array (
+    0 => 'WP_REST_Font_Collections_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php' => 
+  array (
+    0 => 'WP_REST_Posts_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php' => 
+  array (
+    0 => 'WP_REST_Block_Patterns_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php' => 
+  array (
+    0 => 'WP_REST_Post_Types_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php' => 
+  array (
+    0 => 'WP_REST_Block_Renderer_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-controller.php' => 
+  array (
+    0 => 'WP_REST_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php' => 
+  array (
+    0 => 'WP_REST_Widget_Types_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-template-autosaves-controller.php' => 
+  array (
+    0 => 'WP_REST_Template_Autosaves_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php' => 
+  array (
+    0 => 'WP_REST_Plugins_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php' => 
+  array (
+    0 => 'WP_REST_Widgets_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php' => 
+  array (
+    0 => 'WP_REST_Site_Health_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php' => 
+  array (
+    0 => 'WP_REST_Post_Statuses_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php' => 
+  array (
+    0 => 'WP_REST_Global_Styles_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php' => 
+  array (
+    0 => 'WP_REST_Themes_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php' => 
+  array (
+    0 => 'WP_REST_URL_Details_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php' => 
+  array (
+    0 => 'WP_REST_Menu_Items_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php' => 
+  array (
+    0 => 'WP_REST_Application_Passwords_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php' => 
+  array (
+    0 => 'WP_REST_Blocks_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-navigation-fallback-controller.php' => 
+  array (
+    0 => 'WP_REST_Navigation_Fallback_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php' => 
+  array (
+    0 => 'WP_REST_Templates_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-edit-site-export-controller.php' => 
+  array (
+    0 => 'WP_REST_Edit_Site_Export_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php' => 
+  array (
+    0 => 'WP_REST_Attachments_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php' => 
+  array (
+    0 => 'WP_REST_Taxonomies_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php' => 
+  array (
+    0 => 'WP_REST_Pattern_Directory_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php' => 
+  array (
+    0 => 'WP_REST_Settings_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-font-families-controller.php' => 
+  array (
+    0 => 'WP_REST_Font_Families_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php' => 
+  array (
+    0 => 'WP_REST_Revisions_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php' => 
+  array (
+    0 => 'WP_REST_Sidebars_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php' => 
+  array (
+    0 => 'WP_REST_Search_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php' => 
+  array (
+    0 => 'WP_REST_Block_Types_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php' => 
+  array (
+    0 => 'WP_REST_Block_Directory_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php' => 
+  array (
+    0 => 'WP_REST_Block_Pattern_Categories_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-revisions-controller.php' => 
+  array (
+    0 => 'WP_REST_Global_Styles_Revisions_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php' => 
+  array (
+    0 => 'WP_REST_Users_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php' => 
+  array (
+    0 => 'WP_REST_Terms_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php' => 
+  array (
+    0 => 'WP_REST_Comments_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php' => 
+  array (
+    0 => 'WP_REST_Autosaves_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-font-faces-controller.php' => 
+  array (
+    0 => 'WP_REST_Font_Faces_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php' => 
+  array (
+    0 => 'WP_REST_Menus_Controller',
+  ),
+  '/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php' => 
+  array (
+    0 => 'WP_REST_Menu_Locations_Controller',
+  ),
+  '/wp-includes/rest-api/class-wp-rest-server.php' => 
+  array (
+    0 => 'WP_REST_Server',
+  ),
+  '/wp-includes/rest-api/search/class-wp-rest-search-handler.php' => 
+  array (
+    0 => 'WP_REST_Search_Handler',
+  ),
+  '/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php' => 
+  array (
+    0 => 'WP_REST_Term_Search_Handler',
+  ),
+  '/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php' => 
+  array (
+    0 => 'WP_REST_Post_Search_Handler',
+  ),
+  '/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php' => 
+  array (
+    0 => 'WP_REST_Post_Format_Search_Handler',
+  ),
+  '/wp-includes/rest-api/class-wp-rest-response.php' => 
+  array (
+    0 => 'WP_REST_Response',
+  ),
+  '/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php' => 
+  array (
+    0 => 'WP_REST_User_Meta_Fields',
+  ),
+  '/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php' => 
+  array (
+    0 => 'WP_REST_Term_Meta_Fields',
+  ),
+  '/wp-includes/rest-api/fields/class-wp-rest-meta-fields.php' => 
+  array (
+    0 => 'WP_REST_Meta_Fields',
+  ),
+  '/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php' => 
+  array (
+    0 => 'WP_REST_Comment_Meta_Fields',
+  ),
+  '/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php' => 
+  array (
+    0 => 'WP_REST_Post_Meta_Fields',
+  ),
+  '/wp-includes/style-engine/class-wp-style-engine-css-declarations.php' => 
+  array (
+    0 => 'WP_Style_Engine_CSS_Declarations',
+  ),
+  '/wp-includes/style-engine/class-wp-style-engine-css-rule.php' => 
+  array (
+    0 => 'WP_Style_Engine_CSS_Rule',
+  ),
+  '/wp-includes/style-engine/class-wp-style-engine-processor.php' => 
+  array (
+    0 => 'WP_Style_Engine_Processor',
+  ),
+  '/wp-includes/style-engine/class-wp-style-engine.php' => 
+  array (
+    0 => 'WP_Style_Engine',
+  ),
+  '/wp-includes/style-engine/class-wp-style-engine-css-rules-store.php' => 
+  array (
+    0 => 'WP_Style_Engine_CSS_Rules_Store',
+  ),
+  '/wp-includes/class-wp-user-query.php' => 
+  array (
+    0 => 'WP_User_Query',
+  ),
+  '/wp-includes/class-wp-recovery-mode-link-service.php' => 
+  array (
+    0 => 'WP_Recovery_Mode_Link_Service',
+  ),
+  '/wp-includes/interactivity-api/class-wp-interactivity-api.php' => 
+  array (
+    0 => 'WP_Interactivity_API',
+  ),
+  '/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php' => 
+  array (
+    0 => 'WP_Interactivity_API_Directives_Processor',
+  ),
+  '/wp-includes/class-wp-image-editor-gd.php' => 
+  array (
+    0 => 'WP_Image_Editor_GD',
+  ),
+  '/wp-includes/customize/class-wp-customize-nav-menu-section.php' => 
+  array (
+    0 => 'WP_Customize_Nav_Menu_Section',
+  ),
+  '/wp-includes/customize/class-wp-customize-filter-setting.php' => 
+  array (
+    0 => 'WP_Customize_Filter_Setting',
+  ),
+  '/wp-includes/customize/class-wp-customize-background-image-control.php' => 
+  array (
+    0 => 'WP_Customize_Background_Image_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-nav-menu-name-control.php' => 
+  array (
+    0 => 'WP_Customize_Nav_Menu_Name_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-header-image-control.php' => 
+  array (
+    0 => 'WP_Customize_Header_Image_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-nav-menu-item-control.php' => 
+  array (
+    0 => 'WP_Customize_Nav_Menu_Item_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-code-editor-control.php' => 
+  array (
+    0 => 'WP_Customize_Code_Editor_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-media-control.php' => 
+  array (
+    0 => 'WP_Customize_Media_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-nav-menu-control.php' => 
+  array (
+    0 => 'WP_Customize_Nav_Menu_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-nav-menus-panel.php' => 
+  array (
+    0 => 'WP_Customize_Nav_Menus_Panel',
+  ),
+  '/wp-includes/customize/class-wp-customize-new-menu-control.php' => 
+  array (
+    0 => 'WP_Customize_New_Menu_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-theme-control.php' => 
+  array (
+    0 => 'WP_Customize_Theme_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-upload-control.php' => 
+  array (
+    0 => 'WP_Customize_Upload_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-selective-refresh.php' => 
+  array (
+    0 => 'WP_Customize_Selective_Refresh',
+  ),
+  '/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php' => 
+  array (
+    0 => 'WP_Customize_Nav_Menu_Auto_Add_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-themes-section.php' => 
+  array (
+    0 => 'WP_Customize_Themes_Section',
+  ),
+  '/wp-includes/customize/class-wp-customize-site-icon-control.php' => 
+  array (
+    0 => 'WP_Customize_Site_Icon_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php' => 
+  array (
+    0 => 'WP_Customize_Nav_Menu_Locations_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-image-control.php' => 
+  array (
+    0 => 'WP_Customize_Image_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-new-menu-section.php' => 
+  array (
+    0 => 'WP_Customize_New_Menu_Section',
+  ),
+  '/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php' => 
+  array (
+    0 => 'WP_Customize_Nav_Menu_Item_Setting',
+  ),
+  '/wp-includes/customize/class-wp-customize-header-image-setting.php' => 
+  array (
+    0 => 'WP_Customize_Header_Image_Setting',
+  ),
+  '/wp-includes/customize/class-wp-customize-partial.php' => 
+  array (
+    0 => 'WP_Customize_Partial',
+  ),
+  '/wp-includes/customize/class-wp-sidebar-block-editor-control.php' => 
+  array (
+    0 => 'WP_Sidebar_Block_Editor_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-color-control.php' => 
+  array (
+    0 => 'WP_Customize_Color_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-date-time-control.php' => 
+  array (
+    0 => 'WP_Customize_Date_Time_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-nav-menu-setting.php' => 
+  array (
+    0 => 'WP_Customize_Nav_Menu_Setting',
+  ),
+  '/wp-includes/customize/class-wp-customize-background-position-control.php' => 
+  array (
+    0 => 'WP_Customize_Background_Position_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-background-image-setting.php' => 
+  array (
+    0 => 'WP_Customize_Background_Image_Setting',
+  ),
+  '/wp-includes/customize/class-wp-customize-cropped-image-control.php' => 
+  array (
+    0 => 'WP_Customize_Cropped_Image_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-sidebar-section.php' => 
+  array (
+    0 => 'WP_Customize_Sidebar_Section',
+  ),
+  '/wp-includes/customize/class-wp-customize-custom-css-setting.php' => 
+  array (
+    0 => 'WP_Customize_Custom_CSS_Setting',
+  ),
+  '/wp-includes/customize/class-wp-widget-form-customize-control.php' => 
+  array (
+    0 => 'WP_Widget_Form_Customize_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-themes-panel.php' => 
+  array (
+    0 => 'WP_Customize_Themes_Panel',
+  ),
+  '/wp-includes/customize/class-wp-widget-area-customize-control.php' => 
+  array (
+    0 => 'WP_Widget_Area_Customize_Control',
+  ),
+  '/wp-includes/customize/class-wp-customize-nav-menu-location-control.php' => 
+  array (
+    0 => 'WP_Customize_Nav_Menu_Location_Control',
+  ),
+  '/wp-includes/class-wp-http-ixr-client.php' => 
+  array (
+    0 => 'WP_HTTP_IXR_Client',
+  ),
+  '/wp-content/plugins/akismet/class.akismet-cli.php' => 
+  array (
+    0 => 'Akismet_CLI',
+  ),
+  '/wp-content/plugins/akismet/class.akismet.php' => 
+  array (
+    0 => 'Akismet',
+  ),
+  '/wp-content/plugins/akismet/class.akismet-widget.php' => 
+  array (
+    0 => 'Akismet_Widget',
+  ),
+  '/wp-content/plugins/akismet/class.akismet-admin.php' => 
+  array (
+    0 => 'Akismet_Admin',
+  ),
+  '/wp-content/plugins/akismet/class.akismet-rest-api.php' => 
+  array (
+    0 => 'Akismet_REST_API',
+  ),
+)
